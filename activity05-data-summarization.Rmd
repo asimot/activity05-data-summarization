@@ -6,7 +6,7 @@ output: github_document
 
 ## Data and packages
 
-Again, we will load all of the `{tidyverse}` for this Activity.
+Again, we will load all of the `{tidyverse}` for this Activity
 
 ```{r load_packages, message = FALSE}
 library(tidyverse)
